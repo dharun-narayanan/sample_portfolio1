@@ -1,6 +1,12 @@
 # me
 Portfolio
 
+- To run this project follow these steps , 
+  - clone the repo using `git clone`
+  - navigate to folder `portfolio-app`
+  - run `npm install` to instal node modules
+  - run `npm start` to start the service on `localhost:3000`
+
 ## Created & Maintained By
  [&nbsp;&nbsp;&nbsp;DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
