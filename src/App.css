@@ -3,14 +3,9 @@
 }
 
 .App-logo {
+  animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -36,3 +31,49 @@
     transform: rotate(360deg);
   }
 }
+
+#bgimg{
+  background-image: url("./img_bg1.jpg")
+}
+
+#bgimg1{
+  background-image: url("./img_bg.jpg");
+}
+
+#butt {
+  background-color:#282c34;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#pb{
+  width: 80%;
+}
+
+#pb1{
+  width: 80%;
+}
+
+#pb2{
+  width: 75%;
+}
+
+#pb3{
+  width: 60%;
+}
+
+#pb4{
+  width: 70%;
+}
+
+#pb5{
+  width: 75%;
+}
+
